@@ -1,4 +1,4 @@
-Python Projects 🐍
+# Python Projects 🐍
 A collection of Python programs covering fundamental and advanced concepts, including data structures, algorithms, object-oriented programming, and more.
 
 Features
